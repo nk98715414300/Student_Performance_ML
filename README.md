@@ -107,3 +107,17 @@ Author
 Created as a Python and Machine Learning learning project.
 
 GitHub: https://github.com/nk98715414300
+
+## Project Screenshots
+
+### 1. Study Hours vs Final Marks
+![Study Hours vs Marks](screenshots/study-hours-vs-heatmap.png)
+
+### 2. Correlation Heatmap
+![Correlation Heatmap](screenshots/correlation-heatmap.png)
+
+### 3. Actual vs Predicted
+![Actual vs Predicted](screenshots/actual-vs-predicted.png)
+
+### 4. Prediction History
+![Prediction History](screenshots/prediction-history.png)
