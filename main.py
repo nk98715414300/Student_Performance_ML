@@ -9,11 +9,11 @@ import numpy as np
 # ""
 df = pd.read_csv("data/students.csv")
 
-# mlt.scatter(df['Study_Hours'], df['Final_Marks'])
-# mlt.title('Study Hours vs Final Marks')
-# mlt.xlabel('Study Hours')
-# mlt.ylabel('Final Marks')
-# mlt.show()
+mlt.scatter(df['Study_Hours'], df['Final_Marks'])
+mlt.title('Study Hours vs Final Marks')
+mlt.xlabel('Study Hours')
+mlt.ylabel('Final Marks')
+mlt.show()
 
 correlation = df.corr()
 
